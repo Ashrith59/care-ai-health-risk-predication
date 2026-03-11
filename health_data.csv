@@ -1,0 +1,6 @@
+heart_rate,blood_pressure,oxygen_level,temperature,risk
+72,120,98,98,Low
+95,140,95,99,Medium
+110,150,90,100,High
+80,130,96,98,Low
+120,160,85,101,High
