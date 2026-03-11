@@ -4,6 +4,17 @@
 
 Care AI is a machine learning-based application that predicts the health risk level of a patient using vital parameters such as heart rate, blood pressure, oxygen level, and temperature.
 
+## Project Screenshots
+
+### Interface
+![Interface](interface.png)
+
+### High Risk Prediction
+![High Risk](high risk prediction.png)
+
+### Low Risk Prediction
+![Low Risk](low risk prediction.png)
+
 ## Features
 
 * Patient health data input
