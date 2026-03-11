@@ -10,10 +10,10 @@ Care AI is a machine learning-based application that predicts the health risk le
 ![Interface](interface.png)
 
 ### High Risk Prediction
-![High Risk](high risk prediction.png)
+![High Risk](high_risk_prediction.png)
 
 ### Low Risk Prediction
-![Low Risk](low risk prediction.png)
+![Low Risk](low_risk_prediction.png)
 
 ## Features
 
